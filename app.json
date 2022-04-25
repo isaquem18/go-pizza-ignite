@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "go-pizza-ignite",
+    "slug": "go-pizza-ignite",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
